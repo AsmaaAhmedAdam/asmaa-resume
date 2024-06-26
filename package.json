@@ -13,7 +13,7 @@
 
    
   "scripts": {
-    "build": "[my-framework] build --output public"
+    "build": "[laravel] build --output public"
   }
 
     
